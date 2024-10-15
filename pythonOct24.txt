@@ -1,0 +1,11 @@
+Project Overview:
+Title: Python Module Upgrade, SQL Integration, Performance Optimization, and CI/CD with Containerization on OpenShift/Tanzu
+
+Objectives:
+
+Upgrade a Python project from version 3.9 to 3.11, ensuring compatibility.
+Integrate SQL (PostgreSQL) for data storage.
+Address vulnerabilities in dependencies.
+Optimize code performance.
+Implement a CI/CD pipeline using GitHub Actions.
+Containerize the project using Docker and deploy it to OpenShift/Tanzu.
